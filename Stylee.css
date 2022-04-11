@@ -1,0 +1,25 @@
+
+        form{
+            border: solid black;
+            width: 60%;
+        }
+        body{
+            text-align: center;
+        }
+        h1{
+            font-size: 100px;
+            margin-top: 1rem;
+            
+        }
+        font{
+            margin-left: -0.6rem;
+            margin-right: -1rem;
+        }
+        .srch{
+        
+            width: 700px;
+            margin-bottom: 20px;
+        }
+        input[type = "submit"]:hover{
+            cursor: pointer;
+        }
